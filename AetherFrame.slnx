@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AetherFrame.vcxproj" Id="99b31d0a-06c4-4cc2-ab48-ca754c958fbe" />
+</Solution>
