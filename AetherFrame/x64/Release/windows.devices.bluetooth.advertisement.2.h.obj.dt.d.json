@@ -1,0 +1,16 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22621.0\\cppwinrt\\winrt\\impl\\windows.devices.bluetooth.advertisement.2.h",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22621.0\\cppwinrt\\winrt\\impl\\windows.storage.streams.1.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22621.0\\cppwinrt\\winrt\\impl\\windows.foundation.0.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22621.0\\cppwinrt\\winrt\\impl\\windows.storage.streams.0.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22621.0\\cppwinrt\\winrt\\impl\\windows.devices.bluetooth.advertisement.1.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22621.0\\cppwinrt\\winrt\\impl\\windows.devices.bluetooth.advertisement.0.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\aaron\source\repos\aaron-kidwell\AetherFrame\main.c(11,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\aaron\source\repos\aaron-kidwell\AetherFrame\main.c(28,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\aaron\source\repos\aaron-kidwell\AetherFrame\main.c(37,10): warning C4098: 'main': 'void' function returning a value
+C:\Users\aaron\source\repos\aaron-kidwell\AetherFrame\main.c(59,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\aaron\source\repos\aaron-kidwell\AetherFrame\main.c(64,2): warning C4098: 'main': 'void' function returning a value
+  AetherFrame.vcxproj -> C:\Users\aaron\source\repos\aaron-kidwell\AetherFrame\x64\Debug\AetherFrame.exe

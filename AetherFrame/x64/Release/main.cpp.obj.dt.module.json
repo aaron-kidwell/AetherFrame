@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "AetherFrame\\x64\\Release\\main.obj",
+            "outputs": [
+                "AetherFrame\\x64\\Release\\main.cpp.obj.dt.module.json",
+                "AetherFrame\\x64\\Release\\main.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "AetherFrame\\x64\\Debug\\wlantypes.obj",
+            "outputs": [
+                "AetherFrame\\x64\\Debug\\wlantypes.h.obj.dt.module.json",
+                "AetherFrame\\x64\\Debug\\wlantypes.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
