@@ -1,2 +1,2 @@
 # AetherFrame
-A Bluetooth Signal C2/Data Exfiltration Tool
+Windows Unprivileged Bluetooth Signal C2/Data Exfiltration Tool
